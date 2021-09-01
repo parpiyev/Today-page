@@ -1,0 +1,28 @@
+{
+  message: 'storage.employee.findOne: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-08-19T06:29:58.310Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'storage.employee.findOne: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-08-19T11:10:48.173Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'storage.employee.findOne: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-08-19T11:12:04.023Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'storage.employee.findOne: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-08-19T11:18:39.148Z',
+  label: 'today-page',
+  metadata: {}
+}

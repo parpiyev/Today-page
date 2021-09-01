@@ -1,0 +1,1512 @@
+{
+  message: 'DB: DATABASE URL: mongodb+srv://admin:admin123@cluster0.py9oo.mongodb.net/today-page?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2021-08-18T05:31:25.749Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-18T05:31:25.812Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-18T05:31:25.827Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-18T05:31:28.362Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://admin:admin123@cluster0.py9oo.mongodb.net/today-page?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2021-08-18T05:45:14.755Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-18T05:45:14.776Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-18T05:45:14.782Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-18T05:45:17.030Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://admin:admin123@cluster0.py9oo.mongodb.net/today-page?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2021-08-18T12:54:40.256Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-18T12:54:40.278Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-18T12:54:40.281Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-18T12:54:42.958Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://admin:admin123@cluster0.py9oo.mongodb.net/today-page?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2021-08-18T12:57:40.620Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-18T12:57:40.644Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-18T12:57:40.647Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-18T12:57:44.093Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://admin:admin123@cluster0.py9oo.mongodb.net/today-page?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2021-08-18T12:58:25.163Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-18T12:58:25.184Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-18T12:58:25.189Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-18T12:58:26.916Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://admin:admin123@cluster0.py9oo.mongodb.net/today-page?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2021-08-18T12:59:00.067Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-18T12:59:00.089Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-18T12:59:00.092Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-18T12:59:02.338Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://admin:admin123@cluster0.py9oo.mongodb.net/today-page?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2021-08-18T13:05:57.875Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-18T13:05:57.903Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-18T13:05:57.907Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-18T13:06:00.123Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://admin:admin123@cluster0.py9oo.mongodb.net/today-page?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2021-08-18T13:06:46.386Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-18T13:06:46.409Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-18T13:06:46.414Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-18T13:06:48.577Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://admin:admin123@cluster0.py9oo.mongodb.net/today-page?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2021-08-18T13:08:55.078Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-18T13:08:55.099Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-18T13:08:55.102Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-18T13:08:57.231Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://admin:admin123@cluster0.py9oo.mongodb.net/today-page?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2021-08-18T14:15:51.956Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-18T14:15:51.973Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-18T14:15:51.976Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-18T14:15:54.471Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://admin:admin123@cluster0.py9oo.mongodb.net/today-page?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2021-08-18T15:28:40.423Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-18T15:28:40.441Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-18T15:28:40.445Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-18T15:28:42.715Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://admin:admin123@cluster0.py9oo.mongodb.net/today-page?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2021-08-18T15:34:54.170Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-18T15:34:54.193Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-18T15:34:54.196Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-18T15:34:56.936Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://admin:admin123@cluster0.py9oo.mongodb.net/today-page?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2021-08-18T15:49:31.655Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-18T15:49:31.673Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-18T15:49:31.676Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-18T15:49:34.624Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://admin:admin123@cluster0.py9oo.mongodb.net/today-page?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2021-08-18T15:52:02.565Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-18T15:52:02.582Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-18T15:52:02.586Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-18T15:52:04.645Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://admin:admin123@cluster0.py9oo.mongodb.net/today-page?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2021-08-18T16:05:15.705Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-18T16:05:15.725Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-18T16:05:15.728Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-18T16:05:18.554Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://admin:admin123@cluster0.py9oo.mongodb.net/today-page?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2021-08-18T16:25:58.009Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-18T16:25:58.050Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-18T16:25:58.057Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-18T16:26:00.462Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://admin:admin123@cluster0.py9oo.mongodb.net/today-page?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2021-08-18T16:44:27.494Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-18T16:44:27.513Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-18T16:44:27.517Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-18T16:44:31.850Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://admin:admin123@cluster0.py9oo.mongodb.net/today-page?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2021-08-19T06:19:31.505Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-19T06:19:31.524Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-19T06:19:31.527Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-19T06:19:34.158Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://admin:admin123@cluster0.py9oo.mongodb.net/today-page?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2021-08-19T06:25:13.895Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-19T06:25:13.913Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-19T06:25:13.916Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-19T06:25:16.513Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'storage.employee.get failed to findOne',
+  level: 'warn',
+  timestamp: '2021-08-19T06:29:58.307Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://admin:admin123@cluster0.py9oo.mongodb.net/today-page?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2021-08-19T06:30:53.587Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-19T06:30:53.604Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-19T06:30:53.608Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-19T06:30:55.891Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://admin:admin123@cluster0.py9oo.mongodb.net/today-page?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2021-08-19T06:43:36.728Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-19T06:43:36.747Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-19T06:43:36.750Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-19T06:43:39.313Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://admin:admin123@cluster0.py9oo.mongodb.net/today-page?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2021-08-19T07:01:20.631Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-19T07:01:20.649Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-19T07:01:20.652Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-19T07:01:23.240Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://admin:admin123@cluster0.py9oo.mongodb.net/today-page?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2021-08-19T07:07:52.453Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-19T07:07:52.471Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-19T07:07:52.474Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-19T07:07:54.954Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://admin:admin123@cluster0.py9oo.mongodb.net/today-page?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2021-08-19T07:22:01.359Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-19T07:22:01.377Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-19T07:22:01.381Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-19T07:22:04.059Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://admin:admin123@cluster0.py9oo.mongodb.net/today-page?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2021-08-19T07:31:40.037Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-19T07:31:40.058Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-19T07:31:40.062Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-19T07:31:42.392Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://admin:admin123@cluster0.py9oo.mongodb.net/today-page?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2021-08-19T07:40:53.922Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-19T07:40:53.940Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-19T07:40:53.944Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-19T07:40:56.789Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://admin:admin123@cluster0.py9oo.mongodb.net/today-page?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2021-08-19T07:45:01.468Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-19T07:45:01.487Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-19T07:45:01.490Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-19T07:45:04.237Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://admin:admin123@cluster0.py9oo.mongodb.net/today-page?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2021-08-19T07:54:16.282Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-19T07:54:16.300Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-19T07:54:16.303Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-19T07:54:18.643Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://admin:admin123@cluster0.py9oo.mongodb.net/today-page?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2021-08-19T07:57:37.217Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-19T07:57:37.234Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-19T07:57:37.237Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-19T07:57:39.499Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://admin:admin123@cluster0.py9oo.mongodb.net/today-page?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2021-08-19T08:02:56.984Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-19T08:02:57.002Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-19T08:02:57.006Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-19T08:02:59.397Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://admin:admin123@cluster0.py9oo.mongodb.net/today-page?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2021-08-19T11:03:59.951Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-19T11:03:59.970Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-19T11:03:59.973Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-19T11:04:04.414Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://admin:admin123@cluster0.py9oo.mongodb.net/today-page?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2021-08-19T11:05:00.448Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-19T11:05:00.468Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-19T11:05:00.472Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-19T11:05:02.608Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'storage.employee.get failed to findOne',
+  level: 'warn',
+  timestamp: '2021-08-19T11:10:48.170Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://admin:admin123@cluster0.py9oo.mongodb.net/today-page?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2021-08-19T11:11:35.897Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-19T11:11:35.916Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-19T11:11:35.919Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-19T11:11:38.755Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'storage.employee.get failed to findOne',
+  level: 'warn',
+  timestamp: '2021-08-19T11:12:04.021Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://admin:admin123@cluster0.py9oo.mongodb.net/today-page?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2021-08-19T11:14:01.039Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-19T11:14:01.058Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-19T11:14:01.061Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-19T11:14:03.422Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://admin:admin123@cluster0.py9oo.mongodb.net/today-page?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2021-08-19T11:18:19.053Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-19T11:18:19.073Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-19T11:18:19.076Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-19T11:18:21.429Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'storage.employee.get failed to findOne',
+  level: 'warn',
+  timestamp: '2021-08-19T11:18:39.146Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://admin:admin123@cluster0.py9oo.mongodb.net/today-page?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2021-08-19T11:19:10.224Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-19T11:19:10.242Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-19T11:19:10.246Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-19T11:19:12.163Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://admin:admin123@cluster0.py9oo.mongodb.net/today-page?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2021-08-19T11:25:37.666Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-19T11:25:37.684Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-19T11:25:37.687Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-19T11:25:40.135Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://admin:admin123@cluster0.py9oo.mongodb.net/today-page?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2021-08-19T11:26:32.319Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-19T11:26:32.339Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-19T11:26:32.343Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-19T11:26:34.209Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://admin:admin123@cluster0.py9oo.mongodb.net/today-page?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2021-08-19T11:27:40.121Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-19T11:27:40.149Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-19T11:27:40.154Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-19T11:27:42.262Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://admin:admin123@cluster0.py9oo.mongodb.net/today-page?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2021-08-19T11:29:08.705Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-19T11:29:08.725Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-19T11:29:08.728Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-19T11:29:10.751Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://admin:admin123@cluster0.py9oo.mongodb.net/today-page?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2021-08-19T11:30:08.875Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-19T11:30:08.891Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-19T11:30:08.894Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-19T11:30:11.506Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://admin:admin123@cluster0.py9oo.mongodb.net/today-page?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2021-08-19T11:31:34.394Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-19T11:31:34.411Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-19T11:31:34.414Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-19T11:31:36.692Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://admin:admin123@cluster0.py9oo.mongodb.net/today-page?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2021-08-19T11:34:05.838Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-19T11:34:05.855Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-19T11:34:05.859Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-19T11:34:08.019Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://admin:admin123@cluster0.py9oo.mongodb.net/today-page?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2021-08-19T11:35:55.955Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-19T11:35:55.977Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-19T11:35:55.980Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-19T11:35:58.142Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://admin:admin123@cluster0.py9oo.mongodb.net/today-page?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2021-08-19T11:37:11.412Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-19T11:37:11.431Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-19T11:37:11.435Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-19T11:37:13.447Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://admin:admin123@cluster0.py9oo.mongodb.net/today-page?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2021-08-19T11:38:12.838Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-19T11:38:12.857Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-19T11:38:12.861Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-19T11:38:15.051Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://admin:admin123@cluster0.py9oo.mongodb.net/today-page?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2021-08-19T11:50:55.762Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-19T11:50:55.795Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-19T11:50:55.799Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-19T11:50:57.996Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://admin:admin123@cluster0.py9oo.mongodb.net/today-page?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2021-08-19T11:51:16.698Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-19T11:51:16.716Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-19T11:51:16.719Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-19T11:51:18.506Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://admin:admin123@cluster0.py9oo.mongodb.net/today-page?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2021-08-19T11:51:45.084Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-19T11:51:45.103Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-19T11:51:45.106Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-19T11:51:48.104Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://admin:admin123@cluster0.py9oo.mongodb.net/today-page?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2021-08-19T12:53:17.868Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-19T12:53:17.892Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-19T12:53:17.898Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-19T12:53:20.484Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://admin:admin123@cluster0.py9oo.mongodb.net/today-page?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2021-08-19T12:56:05.521Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-19T12:56:05.543Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-19T12:56:05.546Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-19T12:56:07.829Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://admin:admin123@cluster0.py9oo.mongodb.net/today-page?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2021-08-20T10:29:21.794Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-20T10:29:21.815Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-20T10:29:21.820Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-20T10:29:25.438Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://admin:admin123@cluster0.py9oo.mongodb.net/today-page?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2021-08-20T10:34:35.920Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-20T10:34:35.942Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-20T10:34:35.948Z',
+  label: 'today-page',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-20T10:34:39.482Z',
+  label: 'today-page',
+  metadata: {}
+}
