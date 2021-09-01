@@ -50,10 +50,6 @@ export default class Database {
         return mongoose.connect(
             this.url,
             {
-                useNewUrlParser: true,
-                useFindAndModify: false,
-                useUnifiedTopology: true,
-                useCreateIndex: true,
                 serverSelectionTimeoutMS: 5000
             },
             (error) => {
